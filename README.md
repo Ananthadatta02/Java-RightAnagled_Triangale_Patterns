@@ -1,5 +1,4 @@
 # Right-Angled Triangle Pattern in Java
-
 ## Overview
 This Java program prints a right-angled triangle pattern using asterisks (`*`). It uses nested loops to control the number of rows and columns, incrementing the count of asterisks printed in each row.
 
